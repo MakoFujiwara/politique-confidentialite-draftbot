@@ -1,0 +1,43 @@
+index.html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Politique de confidentialité</title>
+</head>
+
+<body>
+    <h1>Politique de confidentialité — MonBot</h1>
+
+    <p><strong>Dernière mise à jour :</strong> 5 octobre 2026</p>
+
+    <h2>Données collectées</h2>
+    <p>
+        Le bot peut traiter les identifiants Discord, les identifiants
+        des serveurs et salons ainsi que les messages contenant des commandes.
+    </p>
+
+    <h2>Utilisation des données</h2>
+    <p>
+        Ces informations sont utilisées uniquement pour assurer le
+        fonctionnement du bot et exécuter les commandes demandées.
+    </p>
+
+    <h2>Partage des données</h2>
+    <p>
+        Les données ne sont pas vendues et ne sont pas utilisées à des
+        fins publicitaires.
+    </p>
+
+    <h2>Suppression des données</h2>
+    <p>
+        Pour demander la suppression de données éventuellement conservées,
+        contactez le responsable du bot.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+        E-mail : guhre78@gmail.com
+    </p>
+</body>
+</html>
